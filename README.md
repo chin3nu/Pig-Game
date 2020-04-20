@@ -1,1 +1,1 @@
-# Pig-Game app is developed using JavsaScript
+# Pig-Game app is developed using JavaScript
